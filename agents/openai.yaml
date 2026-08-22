@@ -1,0 +1,6 @@
+interface:
+  display_name: "Artwork PCB ENIG"
+  short_description: "Turn artwork into color-print and ENIG PCB layers"
+  default_prompt: "Use $artwork-pcb-enig to turn my attached artwork into verified artistic PCB manufacturing layers."
+policy:
+  allow_implicit_invocation: true

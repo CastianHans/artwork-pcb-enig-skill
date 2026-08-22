@@ -1,0 +1,9 @@
+Pillow==11.3.0
+numpy==2.2.6
+opencv-python-headless==4.12.0.88
+svgwrite==1.4.3
+ezdxf==1.4.2
+pygerber==2.4.3
+pytest==8.4.1
+PyYAML==6.0.3
+vtracer==1.0.0a3
